@@ -30,27 +30,14 @@ The practical exercises were performed using Kali Linux and Oracle VirtualBox.
 
 <div align="center">
 
-<a href="screenshots/01-WHOIS.png">
-  <img src="https://img.shields.io/badge/WHOIS-00FF7F?style=for-the-badge&logo=linux&logoColor=black"/>
-</a>
-<a href="screenshots/02-WhatWeb.png">
-  <img src="https://img.shields.io/badge/WHATWEB-00FF7F?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-<a href="screenshots/03-NSLookup.png">
-  <img src="https://img.shields.io/badge/NSLOOKUP-00FF7F?style=for-the-badge&logo=serverfault&logoColor=black"/>
-</a>
-<a href="screenshots/04-cURL.png">
-  <img src="https://img.shields.io/badge/CURL-00FF7F?style=for-the-badge&logo=curl&logoColor=black"/>
-</a>
-<a href="screenshots/05-WAFW00F.png">
-  <img src="https://img.shields.io/badge/WAFW00F-00FF7F?style=for-the-badge&logo=security&logoColor=black"/>
-</a>
-<a href="screenshots/06-DNSRecon.png">
-  <img src="https://img.shields.io/badge/DNSRECON-00FF7F?style=for-the-badge&logo=linux&logoColor=black"/>
-</a>
-<a href="screenshots/07-Zenmap.png">
-  <img src="https://img.shields.io/badge/ZENMAP-00FF7F?style=for-the-badge&logo=nmap&logoColor=black"/>
-</a>
+<a href="screenshot/01_WHOIS_Output.png"><img src="https://img.shields.io/badge/WHOIS-00FF7F?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a href="screenshot/03_WhatWeb_Output.png"><img src="https://img.shields.io/badge/WHATWEB-00FF7F?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+<a href="screenshot/03_NSLookup_Output.png"><img src="https://img.shields.io/badge/NSLOOKUP-00FF7F?style=for-the-badge&logo=serverfault&logoColor=black"/></a>
+<a href="screenshot/04_cURL_Output.png"><img src="https://img.shields.io/badge/CURL-00FF7F?style=for-the-badge&logo=curl&logoColor=black"/></a>
+<a href="screenshot/05_WAFW00F_Output.png"><img src="https://img.shields.io/badge/WAFW00F-00FF7F?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a href="screenshot/06_DNSRecon_Output.png"><img src="https://img.shields.io/badge/DNSRECON-00FF7F?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a href="screenshot/01_Zenmap_Output.png"><img src="https://img.shields.io/badge/ZENMAP-00FF7F?style=for-the-badge&logo=nmap&logoColor=black"/></a>
+<a href="screenshot/02_Zenmap_Output.png"><img src="https://img.shields.io/badge/NMAP-00FF7F?style=for-the-badge&logo=nmap&logoColor=black"/></a>
 
 </div>
 
@@ -63,7 +50,6 @@ The practical exercises were performed using Kali Linux and Oracle VirtualBox.
 | WAFW00F | Web Application Firewall detection |
 | DNSRecon | DNS enumeration |
 | Zenmap / Nmap | Network discovery and port scanning |
-
 ## `03 // PRACTICAL ACTIVITIES`
 
 - [x] Domain footprinting using WHOIS
