@@ -30,14 +30,27 @@ The practical exercises were performed using Kali Linux and Oracle VirtualBox.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WHOIS-000000?style=for-the-badge&logo=linux&logoColor=00FF7F"/>
-<img src="https://img.shields.io/badge/WhatWeb-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF7F"/>
-<img src="https://img.shields.io/badge/NSLookup-000000?style=for-the-badge&logo=serverfault&logoColor=00FF7F"/>
-<img src="https://img.shields.io/badge/cURL-000000?style=for-the-badge&logo=curl&logoColor=00FF7F"/>
-<img src="https://img.shields.io/badge/WAFW00F-000000?style=for-the-badge&logo=security&logoColor=00FF7F"/>
-<img src="https://img.shields.io/badge/DNSRecon-000000?style=for-the-badge&logo=linux&logoColor=00FF7F"/>
-<img src="https://img.shields.io/badge/Zenmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF7F"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF7F"/>
+<a href="screenshots/01-WHOIS.png">
+  <img src="https://img.shields.io/badge/WHOIS-00FF7F?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+<a href="screenshots/02-WhatWeb.png">
+  <img src="https://img.shields.io/badge/WHATWEB-00FF7F?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+<a href="screenshots/03-NSLookup.png">
+  <img src="https://img.shields.io/badge/NSLOOKUP-00FF7F?style=for-the-badge&logo=serverfault&logoColor=black"/>
+</a>
+<a href="screenshots/04-cURL.png">
+  <img src="https://img.shields.io/badge/CURL-00FF7F?style=for-the-badge&logo=curl&logoColor=black"/>
+</a>
+<a href="screenshots/05-WAFW00F.png">
+  <img src="https://img.shields.io/badge/WAFW00F-00FF7F?style=for-the-badge&logo=security&logoColor=black"/>
+</a>
+<a href="screenshots/06-DNSRecon.png">
+  <img src="https://img.shields.io/badge/DNSRECON-00FF7F?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+<a href="screenshots/07-Zenmap.png">
+  <img src="https://img.shields.io/badge/ZENMAP-00FF7F?style=for-the-badge&logo=nmap&logoColor=black"/>
+</a>
 
 </div>
 
