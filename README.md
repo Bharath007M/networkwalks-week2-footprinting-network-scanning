@@ -121,7 +121,6 @@ This repository is intended for educational purposes. All active security testin
 
 <br>
 
-**Made with ❤️ by Bharath M**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,50:003B20,100:000000&height=100&section=footer" width="100%"/>
 
